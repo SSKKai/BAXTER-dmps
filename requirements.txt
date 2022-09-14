@@ -1,0 +1,2 @@
+baxter_pykdl - https://github.com/rethink-kmaroney/baxter_pykdl.git
+trac_ik_python - https://bitbucket.org/traclabs/trac_ik.git
